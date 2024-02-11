@@ -1,0 +1,82 @@
+html {
+    background-image: url(img/background.jpg);
+    background-size: cover;
+}
+
+body {
+    width: 60%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+img {
+    width: 220px;
+}
+
+header div {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(00, 221, 00);
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+nav {
+    width: 80%;
+    height: 40px;
+    margin: auto;
+    background-color: rgb(00, 221, 00);
+}
+
+nav div {
+    text-align: center;
+    padding-top: 10px;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    font-family: "Poppins", sans-serif;
+}
+
+.title {
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    font-style: normal;
+    padding-top: 20px;
+    display: inline-block;
+}
+
+.indirizzo, .carica {
+    font-size: 13px;
+    color: white;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.stato {
+    height: 25px;
+    border-radius: 5px;
+}
+
+.medio {
+    width: 38%;
+    background-color: rgb(238, 185, 88);
+}
+
+.carico {
+    width: 60%;
+    background-color: rgb(00, 221, 00);
+}
+
+.scarico {
+    width: 18%;
+    background-color: rgb(227, 111, 111);
+}
